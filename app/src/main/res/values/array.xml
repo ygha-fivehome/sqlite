@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="space">
+        <item> 거실 </item>
+        <item> 해제 </item>
+    </string-array>
+
+</resources>
